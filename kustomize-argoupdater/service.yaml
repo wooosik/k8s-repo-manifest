@@ -8,3 +8,4 @@ spec:
     targetPort: 5000
   selector:	
     app: myweb
+  type: LoadBalancer
