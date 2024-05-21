@@ -16,4 +16,4 @@ spec:
       - image: docker.io/wooosik/argoupdater:1.0
         name: myweb
         ports:
-        - containerPort: 80
+        - containerPort: 5000
