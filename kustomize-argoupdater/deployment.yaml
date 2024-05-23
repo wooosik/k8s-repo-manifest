@@ -13,7 +13,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: docker.io/wooosik/argoupdater:1.0
+      - image: docker.io/wooosik/argoupdater:2.0
         name: myweb
         ports:
         - containerPort: 80
